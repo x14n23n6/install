@@ -1,0 +1,3 @@
+do
+Msgbox("Hacked")
+loop
